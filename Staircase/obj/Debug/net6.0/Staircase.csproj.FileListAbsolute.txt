@@ -1,0 +1,15 @@
+D:\C#\C#10\ProblemSolving\Staircase\bin\Debug\net6.0\Staircase.exe
+D:\C#\C#10\ProblemSolving\Staircase\bin\Debug\net6.0\Staircase.deps.json
+D:\C#\C#10\ProblemSolving\Staircase\bin\Debug\net6.0\Staircase.runtimeconfig.json
+D:\C#\C#10\ProblemSolving\Staircase\bin\Debug\net6.0\Staircase.dll
+D:\C#\C#10\ProblemSolving\Staircase\bin\Debug\net6.0\Staircase.pdb
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\Staircase.csproj.AssemblyReference.cache
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\Staircase.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\Staircase.AssemblyInfoInputs.cache
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\Staircase.AssemblyInfo.cs
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\Staircase.csproj.CoreCompileInputs.cache
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\Staircase.dll
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\refint\Staircase.dll
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\Staircase.pdb
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\Staircase.genruntimeconfig.cache
+D:\C#\C#10\ProblemSolving\Staircase\obj\Debug\net6.0\ref\Staircase.dll

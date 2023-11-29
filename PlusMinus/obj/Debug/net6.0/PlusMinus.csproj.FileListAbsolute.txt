@@ -1,0 +1,15 @@
+D:\C#\C#10\ProblemSolving\PlusMinus\bin\Debug\net6.0\PlusMinus.exe
+D:\C#\C#10\ProblemSolving\PlusMinus\bin\Debug\net6.0\PlusMinus.deps.json
+D:\C#\C#10\ProblemSolving\PlusMinus\bin\Debug\net6.0\PlusMinus.runtimeconfig.json
+D:\C#\C#10\ProblemSolving\PlusMinus\bin\Debug\net6.0\PlusMinus.dll
+D:\C#\C#10\ProblemSolving\PlusMinus\bin\Debug\net6.0\PlusMinus.pdb
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\PlusMinus.csproj.AssemblyReference.cache
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\PlusMinus.AssemblyInfoInputs.cache
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\PlusMinus.AssemblyInfo.cs
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\PlusMinus.csproj.CoreCompileInputs.cache
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\PlusMinus.dll
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\refint\PlusMinus.dll
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\PlusMinus.pdb
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\PlusMinus.genruntimeconfig.cache
+D:\C#\C#10\ProblemSolving\PlusMinus\obj\Debug\net6.0\ref\PlusMinus.dll

@@ -1,0 +1,15 @@
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\diagonalDifference.csproj.AssemblyReference.cache
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\diagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\diagonalDifference.AssemblyInfoInputs.cache
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\diagonalDifference.AssemblyInfo.cs
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\diagonalDifference.csproj.CoreCompileInputs.cache
+D:\C#\C#10\ProblemSolving\diagonalDifference\bin\Debug\net6.0\diagonalDifference.exe
+D:\C#\C#10\ProblemSolving\diagonalDifference\bin\Debug\net6.0\diagonalDifference.deps.json
+D:\C#\C#10\ProblemSolving\diagonalDifference\bin\Debug\net6.0\diagonalDifference.runtimeconfig.json
+D:\C#\C#10\ProblemSolving\diagonalDifference\bin\Debug\net6.0\diagonalDifference.dll
+D:\C#\C#10\ProblemSolving\diagonalDifference\bin\Debug\net6.0\diagonalDifference.pdb
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\diagonalDifference.dll
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\refint\diagonalDifference.dll
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\diagonalDifference.pdb
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\diagonalDifference.genruntimeconfig.cache
+D:\C#\C#10\ProblemSolving\diagonalDifference\obj\Debug\net6.0\ref\diagonalDifference.dll
